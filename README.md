@@ -1,3 +1,4 @@
+![Docker project](https://github.com/user-attachments/assets/03cba098-6d44-4975-a32a-557f05899b8f)
 ## Introduction
 
 Docker Project! This repository is a comprehensive collection of tasks designed to explore and utilize Docker in various environments. The project aims to provide a deep understanding of how to build and manage containers using Docker, as well as orchestrate multi-service applications with Docker Compose.
@@ -32,12 +33,3 @@ Docker Project! This repository is a comprehensive collection of tasks designed 
 
 4. **Access the Application**:
    Open your browser and navigate to `http://localhost` to interact with the application.
-
-## Project Goals
-
-- **Learn Docker Basics**: Understand how to create and manage containers using Docker.
-- **Explore Multi-Service Applications**: Gain insights into setting up and running front-end and back-end services.
-- **Master Docker Compose**: Learn how to orchestrate multiple services efficiently.
-- **Enhance Development Workflow**: Utilize Docker to streamline development and deployment processes.
-
-Thanks!
